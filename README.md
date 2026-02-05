@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" />
+  <img src="./banner.jpg" alt="Banner" height="250" />
 </p>
 
 <h1 align="center">Adharv M</h1>
