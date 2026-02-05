@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdharvM24&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharvM24&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AdharvM24&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -88,13 +88,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+  <a href="www.linkedin.com/in/adharv-m-703a2a245"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:adharv.m234@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://adharvm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=adharvM24&color=blueviolet&style=flat-square" />
 </p>
