@@ -2,6 +2,12 @@
   <img src="./banner.jpg" alt="Banner" />
 </p>
 
+<h1 align="center">Adharv M</h1>
+<h3 align="center">Senior MERN Stack Developer</h3>
+<p align="center">
+  Microservices • Kafka • Redis
+</p>
+
 ---
 
 ## 👨‍💻 About Me
