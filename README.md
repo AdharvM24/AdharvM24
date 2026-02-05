@@ -41,11 +41,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdharvM24&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharvM24&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
+  ![Streak](https://streak-stats.demolab.com?user=AdharvM24&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharvM24&layout=compact&theme=radical)
 ---
 
 ## 🔥 Contribution Streak
